@@ -25,6 +25,15 @@ W3cSchool: http://www.w3school.com.cn/
 大前端工具集：http://www.cnblogs.com/mfc-itblog/p/5383204.html
 （这个博客老实说可以的，对于了解前端的大概，很推荐）
 
+#刷题
+hihoCoder：http://hihocoder.com/problemset
+牛客网：www.newcoder.com
+LeetCode：leetcode.com
+Pat:https://www.patest.cn/p/index#course
+
+#书籍
+http://bestcbooks.com/recommend/most-influential-book/
+
 ***
 未完待续
 逃
