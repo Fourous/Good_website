@@ -34,8 +34,6 @@ Pat:https://www.patest.cn/p/index#course
 #书籍
 http://bestcbooks.com/recommend/most-influential-book/
 
-***
-未完待续
-逃
-
+#工具（比较全）
+http://tools.jb51.net/
 
